@@ -3,7 +3,7 @@
 //  Hooks
 //
 //  Created by Miguel Angel Ortuno Ortuno on 8/10/15.
-//  Copyright © 2015 Hooks. All rights reserved.
+//  Copyright (c) 2014 Miguel Angel Ortuño. All rights reserved.
 //
 
 import Foundation
